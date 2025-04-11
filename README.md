@@ -1,10 +1,5 @@
 
 
-```
-# Donor ML
-
-This project uses a LightGBM-based machine learning model to predict donor behavior (such as attendance or donation likelihood) and write the results back to a MySQL database.
-
 ## 📁 Project Structure
 
 ```
